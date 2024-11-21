@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": "f615",
+      "title": "Product-1",
+      "price": "1000",
+      "img": "https://t3.ftcdn.net/jpg/05/71/06/76/360_F_571067620_JS5T5TkDtu3gf8Wqm78KoJRF1vobPvo6.jpg"
+    },
+    {
+      "id": "ea4d",
+      "title": "Product-2",
+      "price": "1001",
+      "img": "https://img.freepik.com/free-photo/autumn-leaf-falling-revealing-intricate-leaf-vein-generated-by-ai_188544-9869.jpg"
+    },
+    {
+      "id": "5275",
+      "title": "Product-3",
+      "price": "1200",
+      "img": "https://cdn.pixabay.com/photo/2024/01/02/14/58/leaf-8483401_640.jpg"
+    },
+    {
+      "id": "b25c",
+      "title": "product-4 ",
+      "price": "37200",
+      "img": "https://asset.gecdesigns.com/img/wallpapers/beautiful-magical-misty-mountains-reflection-river-ultra-hd-wallpaper-4k-sr10012420-1706505766369-cover.webp"
+    }
+  ],
+  "cart": [
+    {
+      "id": "f615",
+      "title": "Product-1",
+      "price": "1000",
+      "img": "https://t3.ftcdn.net/jpg/05/71/06/76/360_F_571067620_JS5T5TkDtu3gf8Wqm78KoJRF1vobPvo6.jpg"
+    },
+    {
+      "id": "ea4d",
+      "title": "Product-2",
+      "price": "1001",
+      "img": "https://img.freepik.com/free-photo/autumn-leaf-falling-revealing-intricate-leaf-vein-generated-by-ai_188544-9869.jpg"
+    }
+  ]
+}
